@@ -1,4 +1,5 @@
-## lineXtech
+## linebot
+Line X Tech X Fresh
 
 ### In this bot, there are 4 main functions.
  1. Get the weather today
