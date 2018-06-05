@@ -1,4 +1,3 @@
-# linebot
 ## lineXtech
 
 ### In this bot, there are 4 main functions.
