@@ -1,6 +1,5 @@
 ## linebot
 Line X Tech X Fresh
-![Image of QRCode](https://github.com/kaiyee0/linebot/blob/master/LineBot.png)
 ### In this bot, there are 4 main functions.
  1. Get the weather today
  2. Get the latest news in Taiwan
@@ -118,3 +117,5 @@ def run_schedule():
         time.sleep(1)
 ```
 Yet, it didn't work in Heroku either. In my opinion, it's because Heroku has its own thread programmimg method and I just don't know yet. Maybe when I have more time, I could do some study then.
+
+![Image of QRCode](https://github.com/kaiyee0/linebot/blob/master/LineBot.png)
